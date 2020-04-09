@@ -22,7 +22,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 4. [Using issues](https://youtu.be/Zhj46r5D0nQ)
 5. [Watching, notifications, stars, and explore](https://youtu.be/ocQldxF7fMY)
 6. [Understanding The GitHub Flow](https://youtu.be/PBI2Rz-ZOxU)
-7. [Introduction to GitHub Quick Reference Guide - a pdf](https://lab.github.com/courses/introduction-to-github/)
+7. [Introduction to GitHub Quick Reference Guide - a pdf](https://lab.github.com/public/introduction-to-github.pdf)
 
 
 
