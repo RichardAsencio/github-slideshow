@@ -24,4 +24,6 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 6. [Understanding The GitHub Flow](https://youtu.be/PBI2Rz-ZOxU)
 7. [Introduction to GitHub Quick Reference Guide - a pdf](https://lab.github.com/public/introduction-to-github.pdf)
 
+
+
 -------------------------------------------------------
