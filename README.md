@@ -11,3 +11,21 @@ I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey t
 I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
+
+-------------------------------------------------------
+
+### My Links from the course:
+
+1. [GitHub Learning Lab: Introduction to GitHub Walkthrough](https://youtu.be/sz6zfrQpCQg)
+2. [What is GitHub?](https://youtu.be/w3jLJU7DT5E)
+3. [Exploring a Repository](https://youtu.be/R8OAwrcMlRw)
+4. [Using issues](https://youtu.be/Zhj46r5D0nQ)
+5. [Watching, notifications, stars, and explore](https://youtu.be/ocQldxF7fMY)
+6. [Understanding The GitHub Flow](https://youtu.be/PBI2Rz-ZOxU)
+7. [Introduction to GitHub Quick Reference Guide - a pdf](https://lab.github.com/courses/introduction-to-github/)
+
+
+
+
+
+-------------------------------------------------------
